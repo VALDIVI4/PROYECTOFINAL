@@ -1,9 +1,9 @@
 body {
-    padding-top: 4.5rem;
+  padding-top: 4.5rem;
+}
+
+@media (min-width: 768px) {
+  .ofertas-input {
+    width: 50%;
   }
-  
-  @media (min-width: 768px) {
-    .ofertas-input {
-      width: 50%;
-    }
-  }
+}
